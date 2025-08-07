@@ -1,0 +1,14 @@
+{
+  "name": "我的图标包",
+  "version": "1.0",
+  "icons": [
+    {
+      "name": "薯片",
+      "url": "https://raw.githubusercontent.com/411031/icon/main/image.png"
+    },
+    {
+      "name": "起点站",
+      "url": "https://raw.githubusercontent.com/411031/icon/main/photo_2025-08-07_11-56-12.jpg"
+    }
+  ]
+}
